@@ -1,0 +1,5 @@
+---
+project: fips-libdeflate
+exports:
+    modules:
+        libdeflate: .
