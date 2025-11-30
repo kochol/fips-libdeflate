@@ -1,0 +1,7 @@
+---
+project: fips-libdeflate
+exports:
+    header-dirs:
+        - .
+    modules:
+        libdeflate: .
